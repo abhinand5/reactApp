@@ -1,7 +1,7 @@
 # RoboFriends
 It is a simple React App that displays Robot profiles where the user can do a search on the existing robots.
 
-# Tech Stack + Modules 
+## Tech Stack + Modules 
 * React
 * Tachyons
 * [Robo Hash](https://robohash.org/)
