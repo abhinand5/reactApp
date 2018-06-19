@@ -1,5 +1,5 @@
 # RoboFriends
-It is a simple React App that displays Robot profiles where the user can do a search on the existing robots.
+It is a simple React App that displays fake Robot profiles where the user can do a search on the existing robots based on their name.
 
 ## Tech Stack + Modules 
 * React
