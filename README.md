@@ -1,7 +1,8 @@
 # RoboFriends
 It is a simple React App that displays fake Robot profiles where the user can do a search on the existing robots based on their names.
+[Click Here to view page](https://abhinand5.github.io/reactApp)   :point_left:
 
-## Tech Stack + Modules 
+## Tech Stack + Modules: 
 * React
 * Tachyons
 * [Robo Hash](https://robohash.org/)
@@ -13,7 +14,7 @@ It is a simple React App that displays fake Robot profiles where the user can do
 3. Run `npm install`.
 4. Run `npm start`.
 
-## Prerequisites
+## Prerequisites:
 1. Latest version of `npm`
 2. `create-react-app`
 3. Dev dependencies - `gh-pages` (Optional) 
