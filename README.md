@@ -3,7 +3,7 @@ It is a simple React App that displays fake Robot profiles where the user can do
 [Click Here to view page](https://abhinand5.github.io/reactApp)   :point_left:
 
 ## Tech Stack + Modules: 
-* React
+* React :fire:
 * Tachyons
 * [Robo Hash](https://robohash.org/)
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/)
